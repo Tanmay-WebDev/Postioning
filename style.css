@@ -1,0 +1,28 @@
+h1{
+    background-color: rgb(34, 248, 248);
+}
+.no{
+    background-color: rgb(63, 63, 235);
+    color: white;
+}
+
+.fixed{
+        background-color: rgb(218, 57, 191);
+        color: white;
+        position: fixed;
+}
+
+.sticky{
+    background-color: rgb(51, 210, 30);
+    position: sticky;
+}
+
+.absolute{
+    background-color: cornsilk;
+    position: absolute;
+}
+
+.relative{
+    background-color: cyan;
+    position: relative;
+}
